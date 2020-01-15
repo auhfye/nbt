@@ -1,6 +1,21 @@
 # Nyström Basis Transfer
 ### Paper Online at: https://arxiv.org/abs/1907.01343
 
+### If you use source code pls cite as:
+@article{DBLP:journals/corr/abs-1907-01343,
+  author    = {Christoph Raab and
+               Frank{-}Michael Schleif},
+  title     = {Domain Adaptation via Low-Rank Basis Approximation},
+  journal   = {CoRR},
+  volume    = {abs/1907.01343},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1907.01343},
+  archivePrefix = {arXiv},
+  eprint    = {1907.01343},
+  timestamp = {Mon, 08 Jul 2019 14:12:33 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1907-01343},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 Folders are self-explaining. 
 
 ## Demo and Reproducing:
