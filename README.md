@@ -1,5 +1,5 @@
 # Nyström Basis Transfer
-### Paper Online at: https://arxiv.org/submit/2997401/view
+### Paper Online at: https://arxiv.org/abs/1907.01343
 
 Folders are self-explaining. 
 
